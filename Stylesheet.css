@@ -1,0 +1,35 @@
+/* Stylesheet for Web Portfolio - by Rafat K */
+
+head{}
+header{} 	
+body{
+	background-color: black;
+}
+	#Background{
+		background-image: url(images/background.png);
+		background-repeat: fixed;
+		margin-left: auto;
+		margin-right: auto;
+		width: 1200px;
+		height: 750px;
+	}
+	#Space{
+		padding-bottom: 25px;
+	}
+	#Top{
+		
+		float: left;
+		width: 595px;
+		height: 490px;
+		overflow: scroll;
+		
+	}
+	#Bottom{
+		width: 595px;
+		height: 180px;
+		float: left;
+		padding: 10px;
+	}
+	
+	
+		
